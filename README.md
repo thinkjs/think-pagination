@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-pagination.
+
 # think-pagination
 
 pagination for ThinkJS 3, if you want to use in ThinkJS 2.x, please view [README_v2](./README_v2.md)
